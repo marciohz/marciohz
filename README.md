@@ -5,7 +5,8 @@
 ###
 
 <div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGsxaHNmeDF6Z2s3ZWZsbjhsbDY3bjlpcW9vdWtmNXV5cXNvdDd0YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hXafx5jj9HVBe/giphy.gif" />
 </div>
 
 ###
