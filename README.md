@@ -4,11 +4,17 @@
 
 ###
 
-<p align="center">
+<div align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=webermarcio0@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Gmail" />
   </a>
-</p>
+  <a href="https://www.linkedin.com/in/márcio-gabriel-weber-da-silva-6571322a7">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/marcio_gabrielweber">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25" alt="Instagram" />
+  </a>
+</div>
 
 ###
 
