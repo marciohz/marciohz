@@ -18,19 +18,19 @@
 
 ###
 
-<h1 data-importer="text" align="center">Olá</h1>
+<h1 data-importer="text" align="center">Hello</h1>
 
 ###
 
-<h3 data-importer="text" align="left">👩‍💻 Sobre Mim</h3>
+<h3 data-importer="text" align="left">👨‍💻 About Me</h3>
 
 ###
 
-<p data-importer="text" align="left">Estudante, ainda aprendendo a programar de forma coerente</p>
+<p data-importer="text" align="left">Student, still learning how to code properly</p>
 
 ###
 
-<h3 data-importer="text" align="left">Linguagens de programação que eu estou estudando/sei usar</h3>
+<h3 data-importer="text" align="left">Programming Languages I'm Studying / Know How to Use</h3>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">Meus status:</h3>
+<h3 data-importer="text" align="left">My Stats:</h3>
 
 ###
 
